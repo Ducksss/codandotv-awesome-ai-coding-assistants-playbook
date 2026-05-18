@@ -184,6 +184,9 @@ Only added when official support is confirmed. See [BADGES.md](BADGES.md) for fu
 - **[JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman)** ![open source](https://img.shields.io/badge/open_source-0EA5E9?style=flat) ![claude](https://img.shields.io/badge/claude-D97706?style=flat)  
   > Claude Code plugin that compresses AI responses to reduce token usage and context size
 
+- **[Ducksss/codex-profiles](https://github.com/Ducksss/codex-profiles)** ![codex](https://img.shields.io/badge/codex-10A37F?style=flat) ![open source](https://img.shields.io/badge/open_source-0EA5E9?style=flat)
+  > Bash CLI helper for switching OpenAI Codex CLI/Desktop accounts with isolated `CODEX_HOME` profiles, Homebrew install and no token copying
+
 ---
 
 ## 💻 AI Coding Assistants
